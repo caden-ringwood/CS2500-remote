@@ -1,0 +1,206 @@
+mission_name,rocket_id,launch_date,launch_success,recovery_attempted,successfully_recovered
+FalconSat,5e9d0d95eda69955f709d1eb,2006-03-24,False,False,False
+DemoSat,5e9d0d95eda69955f709d1eb,2007-03-21,False,False,False
+Trailblazer,5e9d0d95eda69955f709d1eb,2008-08-03,False,False,False
+RatSat,5e9d0d95eda69955f709d1eb,2008-09-28,True,False,False
+RazakSat,5e9d0d95eda69955f709d1eb,2009-07-13,True,False,False
+Falcon 9 Test Flight,5e9d0d95eda69973a809d1ec,2010-06-04,True,,
+COTS 1,5e9d0d95eda69973a809d1ec,2010-12-08,True,,
+COTS 2,5e9d0d95eda69973a809d1ec,2012-05-22,True,,
+CRS-1,5e9d0d95eda69973a809d1ec,2012-10-08,True,,
+CRS-2,5e9d0d95eda69973a809d1ec,2013-03-01,True,,
+CASSIOPE,5e9d0d95eda69973a809d1ec,2013-09-29,True,False,False
+SES-8,5e9d0d95eda69973a809d1ec,2013-12-03,True,False,False
+Thaicom 6,5e9d0d95eda69973a809d1ec,2014-01-06,True,False,False
+CRS-3,5e9d0d95eda69973a809d1ec,2014-04-18,True,,
+OG-2 Mission 1,5e9d0d95eda69973a809d1ec,2014-07-14,True,False,False
+AsiaSat 8,5e9d0d95eda69973a809d1ec,2014-08-05,True,False,False
+AsiaSat 6,5e9d0d95eda69973a809d1ec,2014-09-07,True,False,False
+CRS-4,5e9d0d95eda69973a809d1ec,2014-09-21,True,,
+CRS-5,5e9d0d95eda69973a809d1ec,2015-01-10,True,,
+DSCOVR,5e9d0d95eda69973a809d1ec,2015-02-11,True,False,False
+ABS-3A / Eutelsat 115W B,5e9d0d95eda69973a809d1ec,2015-03-02,True,False,False
+CRS-6,5e9d0d95eda69973a809d1ec,2015-04-14,True,,
+TürkmenÄlem 52°E / MonacoSAT,5e9d0d95eda69973a809d1ec,2015-04-27,True,False,False
+CRS-7,5e9d0d95eda69973a809d1ec,2015-06-28,False,,
+OG-2 Mission 2,5e9d0d95eda69973a809d1ec,2015-12-22,True,False,False
+Jason 3,5e9d0d95eda69973a809d1ec,2016-01-17,True,False,False
+SES-9,5e9d0d95eda69973a809d1ec,2016-03-04,True,False,False
+CRS-8,5e9d0d95eda69973a809d1ec,2016-04-08,True,,
+JCSAT-2B,5e9d0d95eda69973a809d1ec,2016-05-06,True,False,False
+Thaicom 8,5e9d0d95eda69973a809d1ec,2016-05-27,True,False,False
+ABS-2A / Eutelsat 117W B,5e9d0d95eda69973a809d1ec,2016-06-15,True,False,False
+CRS-9,5e9d0d95eda69973a809d1ec,2016-07-18,True,,
+JCSAT-16,5e9d0d95eda69973a809d1ec,2016-08-14,True,False,False
+Amos-6,5e9d0d95eda69973a809d1ec,2016-09-01,False,False,False
+Iridium NEXT Mission 1,5e9d0d95eda69973a809d1ec,2017-01-14,True,False,False
+CRS-10,5e9d0d95eda69973a809d1ec,2017-02-19,True,,
+EchoStar 23,5e9d0d95eda69973a809d1ec,2017-03-16,True,False,False
+SES-10,5e9d0d95eda69973a809d1ec,2017-03-30,True,False,False
+NROL-76,5e9d0d95eda69973a809d1ec,2017-05-01,True,False,False
+Inmarsat-5 F4,5e9d0d95eda69973a809d1ec,2017-05-15,True,False,False
+CRS-11,5e9d0d95eda69973a809d1ec,2017-06-03,True,,
+BulgariaSat-1,5e9d0d95eda69973a809d1ec,2017-06-23,True,False,False
+Iridium NEXT Mission 2,5e9d0d95eda69973a809d1ec,2017-06-25,True,False,False
+Intelsat 35e,5e9d0d95eda69973a809d1ec,2017-07-05,True,False,False
+CRS-12,5e9d0d95eda69973a809d1ec,2017-08-14,True,,
+FormoSat-5,5e9d0d95eda69973a809d1ec,2017-08-24,True,False,False
+Boeing X-37B OTV-5,5e9d0d95eda69973a809d1ec,2017-09-07,True,False,False
+Iridium NEXT Mission 3,5e9d0d95eda69973a809d1ec,2017-10-09,True,False,False
+SES-11 / Echostar 105,5e9d0d95eda69973a809d1ec,2017-10-11,True,False,False
+KoreaSat 5A,5e9d0d95eda69973a809d1ec,2017-10-30,True,True,False
+CRS-13,5e9d0d95eda69973a809d1ec,2017-12-15,True,,
+Iridium NEXT Mission 4,5e9d0d95eda69973a809d1ec,2017-12-23,True,False,False
+ZUMA,5e9d0d95eda69973a809d1ec,2018-01-08,True,False,False
+SES-16 / GovSat-1,5e9d0d95eda69973a809d1ec,2018-01-31,True,False,False
+Falcon Heavy Test Flight,5e9d0d95eda69974db09d1ed,2018-02-06,True,False,False
+Paz / Starlink Demo,5e9d0d95eda69973a809d1ec,2018-02-22,True,True,False
+Hispasat 30W-6,5e9d0d95eda69973a809d1ec,2018-03-06,True,False,False
+Iridium NEXT Mission 5,5e9d0d95eda69973a809d1ec,2018-03-30,True,True,False
+CRS-14,5e9d0d95eda69973a809d1ec,2018-04-02,True,,
+TESS,5e9d0d95eda69973a809d1ec,2018-04-18,True,False,False
+Bangabandhu-1,5e9d0d95eda69973a809d1ec,2018-05-11,True,False,False
+Iridium NEXT Mission 6,5e9d0d95eda69973a809d1ec,2018-05-22,True,True,False
+SES-12,5e9d0d95eda69973a809d1ec,2018-06-04,True,False,False
+CRS-15,5e9d0d95eda69973a809d1ec,2018-06-29,True,,
+Telstar 19V,5e9d0d95eda69973a809d1ec,2018-07-22,True,False,False
+Iridium NEXT Mission 7,5e9d0d95eda69973a809d1ec,2018-07-25,True,True,False
+Merah Putih,5e9d0d95eda69973a809d1ec,2018-08-07,True,False,False
+Telstar 18V,5e9d0d95eda69973a809d1ec,2018-09-10,True,False,False
+SAOCOM 1A,5e9d0d95eda69973a809d1ec,2018-10-08,True,False,False
+Es’hail 2,5e9d0d95eda69973a809d1ec,2018-11-15,True,False,False
+SSO-A,5e9d0d95eda69973a809d1ec,2018-12-03,True,True,False
+CRS-16,5e9d0d95eda69973a809d1ec,2018-12-05,True,,
+GPS III SV01,5e9d0d95eda69973a809d1ec,2018-12-23,True,False,False
+Iridium NEXT Mission 8,5e9d0d95eda69973a809d1ec,2019-01-11,True,False,
+Nusantara Satu (PSN-6) / S5 / Beresheet,5e9d0d95eda69973a809d1ec,2019-02-22,True,False,False
+CCtCap Demo Mission 1,5e9d0d95eda69973a809d1ec,2019-03-02,True,,
+ArabSat 6A,5e9d0d95eda69974db09d1ed,2019-04-11,True,True,True
+CRS-17,5e9d0d95eda69973a809d1ec,2019-05-04,True,,
+Starlink v0.9,5e9d0d95eda69973a809d1ec,2019-05-24,True,True,True
+RADARSAT Constellation,5e9d0d95eda69973a809d1ec,2019-06-12,True,False,
+STP-2,5e9d0d95eda69974db09d1ed,2019-06-25,True,True,True
+CRS-18,5e9d0d95eda69973a809d1ec,2019-07-25,True,,
+Amos-17,5e9d0d95eda69973a809d1ec,2019-08-06,True,True,True
+Starlink-1,5e9d0d95eda69973a809d1ec,2019-11-11,True,False,False
+CRS-19,5e9d0d95eda69973a809d1ec,2019-12-05,True,,
+JCSat 18 / Kacific 1,5e9d0d95eda69973a809d1ec,2019-12-17,True,True,False
+Starlink-2,5e9d0d95eda69973a809d1ec,2020-01-07,True,True,False
+Crew Dragon In Flight Abort Test,5e9d0d95eda69973a809d1ec,2020-01-19,True,,
+Starlink-3,5e9d0d95eda69973a809d1ec,2020-01-29,True,True,True
+Starlink-4,5e9d0d95eda69973a809d1ec,2020-02-17,True,True,False
+CRS-20,5e9d0d95eda69973a809d1ec,2020-03-07,True,,
+Starlink-5,5e9d0d95eda69973a809d1ec,2020-03-18,True,True,False
+Starlink-6,5e9d0d95eda69973a809d1ec,2020-04-22,True,False,
+CCtCap Demo Mission 2,5e9d0d95eda69973a809d1ec,2020-05-30,True,,
+Starlink-7,5e9d0d95eda69973a809d1ec,2020-06-04,True,True,
+Starlink-8 & SkySat 16-18,5e9d0d95eda69973a809d1ec,2020-06-13,True,True,
+GPS III SV03 (Columbus),5e9d0d95eda69973a809d1ec,2020-06-30,True,True,True
+ANASIS-II,5e9d0d95eda69973a809d1ec,2020-07-20,True,True,True
+Starlink-9 (v1.0) & BlackSky Global 5-6,5e9d0d95eda69973a809d1ec,2020-08-07,True,True,True
+Starlink-10 (v1.0) & SkySat 19-21,5e9d0d95eda69973a809d1ec,2020-08-18,True,True,True
+"SAOCOM 1B, GNOMES-1, Tyvak-0172",5e9d0d95eda69973a809d1ec,2020-08-30,True,True,True
+Starlink-11 (v1.0),5e9d0d95eda69973a809d1ec,2020-09-03,True,True,
+Starlink-12 (v1.0),5e9d0d95eda69973a809d1ec,2020-10-06,True,True,True
+Starlink-13 (v1.0),5e9d0d95eda69973a809d1ec,2020-10-18,True,True,
+Starlink-14 (v1.0),5e9d0d95eda69973a809d1ec,2020-10-24,True,True,
+GPS III SV04 (Sacagawea),5e9d0d95eda69973a809d1ec,2020-11-05,True,True,
+Crew-1,5e9d0d95eda69973a809d1ec,2020-11-16,True,,
+Sentinel-6 Michael Freilich,5e9d0d95eda69973a809d1ec,2020-11-21,True,,
+Starlink-15 (v1.0),5e9d0d95eda69973a809d1ec,2020-11-25,True,True,
+CRS-21,5e9d0d95eda69973a809d1ec,2020-12-06,True,,
+SXM-7,5e9d0d95eda69973a809d1ec,2020-12-13,True,True,
+NROL-108,5e9d0d95eda69973a809d1ec,2020-12-19,True,True,True
+Turksat 5A,5e9d0d95eda69973a809d1ec,2021-01-08,True,True,
+Starlink-16 (v1.0),5e9d0d95eda69973a809d1ec,2021-01-20,True,True,
+Transporter-1,5e9d0d95eda69973a809d1ec,2021-01-24,True,True,True
+Starlink-18 (v1.0),5e9d0d95eda69973a809d1ec,2021-02-04,True,True,
+Starlink-19 (v1.0),5e9d0d95eda69973a809d1ec,2021-02-16,True,True,True
+Starlink-17 (v1.0),5e9d0d95eda69973a809d1ec,2021-03-04,True,,
+Starlink-20 (v1.0),5e9d0d95eda69973a809d1ec,2021-03-11,True,True,True
+Starlink-21 (v1.0),5e9d0d95eda69973a809d1ec,2021-03-14,True,True,True
+Starlink-22 (v1.0),5e9d0d95eda69973a809d1ec,2021-03-24,True,True,True
+Starlink-23 (v1.0),5e9d0d95eda69973a809d1ec,2021-04-07,True,True,
+Crew-2,5e9d0d95eda69973a809d1ec,2021-04-23,True,,
+Starlink-24 (v1.0),5e9d0d95eda69973a809d1ec,2021-04-29,True,True,True
+Starlink-25 (v1.0),5e9d0d95eda69973a809d1ec,2021-05-04,True,True,True
+Starlink-27 (v1.0),5e9d0d95eda69973a809d1ec,2021-05-09,True,True,True
+Starlink-26 (v1.0) + Capella-6 + Tyvak-0130,5e9d0d95eda69973a809d1ec,2021-05-15,True,True,
+Starlink-28 (v1.0),5e9d0d95eda69973a809d1ec,2021-05-26,True,True,True
+CRS-22 & IROSA,5e9d0d95eda69973a809d1ec,2021-06-03,True,,
+SXM-8,5e9d0d95eda69973a809d1ec,2021-06-06,True,True,True
+GPS III SV05,5e9d0d95eda69973a809d1ec,2021-06-17,True,True,True
+Transporter-2,5e9d0d95eda69973a809d1ec,2021-06-30,True,True,True
+CRS-23,5e9d0d95eda69973a809d1ec,2021-08-29,True,,
+Starlink 2-1 (v1.5),5e9d0d95eda69973a809d1ec,2021-09-14,True,,
+Inspiration4,5e9d0d95eda69973a809d1ec,2021-09-16,True,,
+Crew-3,5e9d0d95eda69973a809d1ec,2021-11-11,True,,
+Starlink 4-1 (v1.5),5e9d0d95eda69973a809d1ec,2021-11-13,True,True,True
+DART,5e9d0d95eda69973a809d1ec,2021-11-24,True,True,
+Starlink 4-3 (v1.5),5e9d0d95eda69973a809d1ec,2021-12-01,True,True,
+IXPE,5e9d0d95eda69973a809d1ec,2021-12-09,True,,
+Starlink 4-4 (v1.5),5e9d0d95eda69973a809d1ec,2021-12-18,True,True,
+Türksat 5B,5e9d0d95eda69973a809d1ec,2021-12-19,True,True,
+CRS-24,5e9d0d95eda69973a809d1ec,2021-12-21,True,,
+Starlink 4-5 (v1.5),5e9d0d95eda69973a809d1ec,2022-01-06,True,True,
+Transporter-3,5e9d0d95eda69973a809d1ec,2022-01-13,True,,
+Starlink 4-6 (v1.5),5e9d0d95eda69973a809d1ec,2022-01-19,True,True,
+CSG-2,5e9d0d95eda69973a809d1ec,2022-01-31,True,,
+NROL-87,5e9d0d95eda69973a809d1ec,2022-02-02,True,,
+Starlink 4-7 (v1.5),5e9d0d95eda69973a809d1ec,2022-02-03,True,,
+Starlink 4-8 (v1.5),5e9d0d95eda69973a809d1ec,2022-02-21,True,,
+Starlink 4-11 (v1.5),5e9d0d95eda69973a809d1ec,2022-02-25,True,,
+Starlink 4-9 (v1.5),5e9d0d95eda69973a809d1ec,2022-03-03,True,,
+Starlink 4-10 (v1.5),5e9d0d95eda69973a809d1ec,2022-03-09,True,,
+Starlink 4-12 (v1.5),5e9d0d95eda69973a809d1ec,2022-03-19,True,,
+Transporter-4,5e9d0d95eda69973a809d1ec,2022-04-01,True,,
+Ax-1,5e9d0d95eda69973a809d1ec,2022-04-08,True,,
+NROL-85,5e9d0d95eda69973a809d1ec,2022-04-17,True,,
+Starlink 4-14 (v1.5),5e9d0d95eda69973a809d1ec,2022-04-21,True,,
+Crew-4,5e9d0d95eda69973a809d1ec,2022-04-27,True,,
+Starlink 4-16 (v1.5),5e9d0d95eda69973a809d1ec,2022-04-29,True,,
+Starlink 4-17 (v1.5),5e9d0d95eda69973a809d1ec,2022-05-06,True,,
+Starlink 4-13 (v1.5),5e9d0d95eda69973a809d1ec,2022-05-13,True,,
+Starlink 4-15 (v1.5),5e9d0d95eda69973a809d1ec,2022-05-14,True,,
+Starlink 4-18 (v1.5),5e9d0d95eda69973a809d1ec,2022-05-18,True,,
+Transporter-5,5e9d0d95eda69973a809d1ec,2022-05-25,True,,
+Nilesat-301,5e9d0d95eda69973a809d1ec,2022-06-08,True,,
+Starlink 4-19 (v1.5),5e9d0d95eda69973a809d1ec,2022-06-01,True,,
+SARah 1,5e9d0d95eda69973a809d1ec,2022-06-18,True,,
+Globalstar FM15,5e9d0d95eda69973a809d1ec,2022-06-19,True,,
+SES-22,5e9d0d95eda69973a809d1ec,2022-06-29,True,,
+Starlink 4-21 (v1.5),5e9d0d95eda69973a809d1ec,2022-07-07,True,,
+Starlink 3-1 (v1.5),5e9d0d95eda69973a809d1ec,2022-07-11,,,
+CRS-25,5e9d0d95eda69973a809d1ec,2022-07-15,True,,
+Starlink 4-22 (v1.5),5e9d0d95eda69973a809d1ec,2022-07-17,True,,
+Starlink 3-2 (v1.5),5e9d0d95eda69973a809d1ec,2022-07-21,True,,
+Starlink 4-25 (v1.5),5e9d0d95eda69973a809d1ec,2022-07-24,True,,
+KPLO,5e9d0d95eda69973a809d1ec,2022-08-04,True,,
+Starlink 4-26 (v1.5),5e9d0d95eda69973a809d1ec,2022-08-09,True,,
+Starlink 3-3 (v1.5),5e9d0d95eda69973a809d1ec,2022-08-12,True,,
+Starlink 4-27 (v1.5),5e9d0d95eda69973a809d1ec,2022-08-19,True,,
+Starlink 4-23 (v1.5),5e9d0d95eda69973a809d1ec,2022-08-28,True,,
+Starlink 3-4 (v1.5),5e9d0d95eda69973a809d1ec,2022-08-31,True,,
+Starlink 4-20 (v1.5) & Sherpa LTC-2/Varuna-TDM,5e9d0d95eda69973a809d1ec,2022-09-05,True,,
+Starlink 4-2 (v1.5) & Blue Walker 3,5e9d0d95eda69973a809d1ec,2022-09-11,True,,
+Starlink 4-34 (v1.5),5e9d0d95eda69973a809d1ec,2022-09-17,True,,
+Starlink 4-35 (v1.5),5e9d0d95eda69973a809d1ec,2022-09-24,True,,
+Crew-5,5e9d0d95eda69973a809d1ec,2022-10-05,True,,
+USSF-44,5e9d0d95eda69974db09d1ed,2022-11-01,,,
+Starlink 4-36 (v1.5),5e9d0d95eda69973a809d1ec,2022-10-20,,,
+Galaxy 33 (15R) & 34 (12R),5e9d0d95eda69973a809d1ec,2022-10-08,,,
+Hotbird 13F,5e9d0d95eda69973a809d1ec,2022-10-15,,,
+Hotbird 13G,5e9d0d95eda69973a809d1ec,2022-11-03,,,
+Galaxy 31 (23R) & 32 (17R),5e9d0d95eda69973a809d1ec,2022-11-08,,,
+Eutelsat 10B,5e9d0d95eda69973a809d1ec,2022-11-15,,,
+ispace Mission 1 & Rashid,5e9d0d95eda69973a809d1ec,2022-11-22,,,
+CRS-26,5e9d0d95eda69973a809d1ec,2022-11-18,,,
+Starlink 4-37 (v1.5),5e9d0d95eda69973a809d1ec,2022-11-01,,,
+"O3b mPower 1,2",5e9d0d95eda69973a809d1ec,2022-11-01,,,
+SWOT,5e9d0d95eda69973a809d1ec,2022-12-05,,,
+SES-18 & SES-19,5e9d0d95eda69973a809d1ec,2022-11-01,,,
+Transporter-6,5e9d0d95eda69973a809d1ec,2022-12-01,,,
+TTL-1,5e9d0d95eda69973a809d1ec,2022-12-01,,,
+WorldView Legion 1 & 2,5e9d0d95eda69973a809d1ec,2022-12-01,,,
+Viasat-3 & Arcturus,5e9d0d95eda69974db09d1ed,2022-12-01,,,
+O3b mPower 3.4,5e9d0d95eda69973a809d1ec,2022-12-01,,,
