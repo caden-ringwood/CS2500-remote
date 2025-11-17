@@ -1,0 +1,34 @@
+# ==========================
+# PYTHON & JUPYTER STANDARD
+# ==========================
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# ==========================
+# OPERATING SYSTEM FILES
+# ==========================
+.DS_Store
+Thumbs.db
+
+# ==========================
+# VIRTUAL ENVIRONMENTS
+# ==========================
+# Assuming you might use a virtual env named 'env' or 'venv'
+env/
+venv/
+.env
+
+# ==========================
+# PROJECT DATA
+# ==========================
+# 1. Ignore the raw data folder (The super large datasets)
+data/raw/
+
+# 2. (Optional) If you have any zipped data
+*.zip
+*.gz
+
+# Note: We are NOT ignoring 'data/processed/', so 
+# your cleaned files and final grid will still be pushed.
