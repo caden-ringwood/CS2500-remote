@@ -23,6 +23,28 @@ This project analyzes and visualizes natural hazard data for Washington County, 
     *   A geospatial risk map is generated, plotting the danger score on a basemap.
     *   Statistical charts (bar plots, box plots) are created to analyze relationships between different hazards and risk levels.
 
+## Key Visualizations
+
+Below are the key visualizations produced by the `visualize_hazards.ipynb` notebook.
+
+**1. Multi-Hazard Risk Map of Washington County**
+
+This map shows the composite `danger_score` for each grid point across the county, plotted on a basemap to show geographic context. Higher scores indicate areas with a greater combination of hazard risks.
+
+![Multi-Hazard Risk Map](risk_map.png)
+
+**2. Wildfire Frequency vs. Flood Risk**
+
+This bar chart analyzes the relationship between the average number of wildfires and the designated FEMA flood risk zone for each location.
+
+![Wildfire Frequency by Flood Risk](wildfire_by_flood_risk.png)
+
+**3. Seismic Intensity vs. Flood Risk**
+
+This box plot synthesizes three variables: the total danger level, the maximum earthquake magnitude, and whether a location is within a high-risk flood zone. It helps visualize how different hazard types interact.
+
+![Seismic Intensity vs Flood Risk](seismic_vs_flood_risk.png)
+
 ## Project Structure
 
 -   `data/raw/`: (Not included in repo) Contains the original raw data files for fires, earthquakes, and floods.

@@ -32,3 +32,8 @@ data/raw/
 
 # Note: We are NOT ignoring 'data/processed/', so 
 # your cleaned files and final grid will still be pushed.
+
+# ==========================
+# SECRETS & IGNORED FILES
+# ==========================
+--api-keys*
