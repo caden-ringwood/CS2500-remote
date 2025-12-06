@@ -11,6 +11,7 @@ Here is a summary of the projects included in this repository. Each folder conta
 * **[api_training](https://github.com/caden-ringwood/CS2500-remote/tree/main/api_training)**: Examples of how to fetch data from various web APIs (Application Programming Interfaces).
 * **[pdf_data](https://github.com/caden-ringwood/CS2500-remote/tree/main/pdf_data)**: Techniques and code for extracting structured data from PDF documents.
 * **[webscrape](https://github.com/caden-ringwood/CS2500-remote/tree/main/webscrape)**: Projects focused on scraping data from websites using libraries like Beautiful Soup and Requests.
+* **[wasiongton_hazards](https://github.com/caden-ringwood/CS2500-remote/tree/main/wasiongton_hazards)**: An analysis and visualization of natural hazard data for Washington County, Utah.
 
 ## Technologies Used
 
@@ -21,6 +22,7 @@ Here is a summary of the projects included in this repository. Each folder conta
     * Requests
     * Beautiful Soup 4
     * Matplotlib / Seaborn
+    * Geopandas
 
 ## How to Use
 
